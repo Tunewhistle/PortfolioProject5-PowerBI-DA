@@ -1,4 +1,4 @@
-# PortfolioProject5-PowerBI-Data Visualization
+# PortfolioProject5-PowerBI-Data Structure and Visualization
 This Power BI project simulates a data analysis process. The flow goes as follows:
 1. receive a data analysis request from a customer, 
 2. create a business demand overview based on the customer’s request, this overview will be the guideline for data analysts to measure and specify the work
