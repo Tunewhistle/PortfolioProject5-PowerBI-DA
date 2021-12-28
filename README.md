@@ -1,4 +1,4 @@
-# PortfolioProject5-PowerBI-DA
+# PortfolioProject5-PowerBI-Data Visualization
 This Power BI project simulates a data analysis process. The flow goes as follows:
 1. receive a data analysis request from a customer, 
 2. create a business demand overview based on the customer’s request, this overview will be the guideline for data analysts to measure and specify the work
@@ -39,7 +39,7 @@ User stories(try to specify from the user point of view what our delivery has to
 |3|Sales Representatives|A detailed overview of internet sales per customer|Can follow up my customers, and see who buys the most and who we can sell more to|A Power BI dashboard that allows me to filter data for each customer|
 |4|Sales Representatives|A detailed overview of internet sales per product|Can follow up products that I sell the most|A Power BI dashboard which allows me to filter data for each product|
 
-## 3. Decide what datasets are needed, collect, cleanse and transform data
+## 3. Decide what datasets are needed. Collect, cleanse and transform data
 Thought process:
 1. As the user wants to see the sales of products and the difference between sales and budget, sales and budget data are needed.
 2. As the user wants to filter the data by customers and products, customer and product data are needed as well.
@@ -78,5 +78,8 @@ Screenshot of the page-Product Details
 
 ![Screnshot of page3](/Screenshots/dashboard-page3.PNG)
 
+## 6. Project evaluation and further improvement
+Evaluate the data visualization in accordance with acceptance criterias from Business Demand Overview, and discuss with the customer to make further improvement.
 
+P.S. The complete data visualization file can be found in this repository.
 
