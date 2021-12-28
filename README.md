@@ -61,5 +61,22 @@ After the datasets are accquired, they are uploaded to Power BI and cleansed in 
 ## 4. Data modeling
 Structure the relationships, each relationship's cardinality and direction.
 
-![Screenshot of data structure](/Screenshots/screenshot of data structure.PNG)
+![Screenshot of data structure](/Screenshots/screenshot-of-data-structure.PNG)
+
+## 5. Data visualization
+Start creating the dashboard with the user requests and stories in mind, select the right visual elements and filters to best serve the purpose. Here are the screenshot of the dashboard. The project file can be found in this repository.
+
+Screenshot of the page-Sales Overview
+
+![Screenshot of page1]()
+
+Screenshot of the page-Customer Details
+
+![Screnshot of page2]()
+
+Screenshot of the page-Product Details
+
+![Screnshot of page3]()
+
+
 
