@@ -72,7 +72,7 @@ Screenshot of the page-Sales Overview
 
 Screenshot of the page-Customer Details
 
-![Screnshot of page2](/Screenshots/dashboard-page2.PNG)
+![Screnshot of page2](/Screenshots/dashboard-page21.PNG)
 
 Screenshot of the page-Product Details
 
