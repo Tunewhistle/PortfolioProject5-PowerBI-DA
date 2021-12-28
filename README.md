@@ -68,15 +68,15 @@ Start creating the dashboard with the user requests and stories in mind, select 
 
 Screenshot of the page-Sales Overview
 
-![Screenshot of page1]()
+![Screenshot of page1](/Screenshots/dashboard-page1.PNG)
 
 Screenshot of the page-Customer Details
 
-![Screnshot of page2]()
+![Screnshot of page2](/Screenshots/dashboard-page2.PNG)
 
 Screenshot of the page-Product Details
 
-![Screnshot of page3]()
+![Screnshot of page3](/Screenshots/dashboard-page3.PNG)
 
 
 
