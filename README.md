@@ -61,5 +61,5 @@ After the datasets are accquired, they are uploaded to Power BI and cleansed in 
 ## 4. Data modeling
 Structure the relationships, each relationship's cardinality and direction.
 
-
+![Screenshot of data structure](/Screenshots/screenshot of data structure.PNG)
 
